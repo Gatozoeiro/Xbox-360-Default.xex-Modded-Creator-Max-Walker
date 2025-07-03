@@ -1,5 +1,4 @@
 # Xbox-360-XexUnshackle-Modded 
-![Slide1](https://github.com/user-attachments/assets/c59f3e51-a452-464a-ba80-b482290de727)
-
-Feito por maxinwalker e testado por:
-Gato_zoeiro!
+![MAX WALKER](https://github.com/user-attachments/assets/b464d3ec-6dfc-468d-8425-a594949463ea)
+ Feito por um brasileiro que conseguiu otimizar o desbloqueio XeUnshackle e resolveu disponibilizar para todos sua modificação!
+ 
