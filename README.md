@@ -9,5 +9,15 @@ https://github.com/Byrom90/XeUnshackle
 grimdoomer por ter criado o arquivo Bad Update e disponibilizado
 https://github.com/grimdoomer/Xbox360BadUpdate
 
+Como este metodo funciona?
+ Foi descoberto por Max walker que, ao modificar uma linha de codigos, fez com que o arquivo default.xex pudesse ser modificado para que ele, quando procurasse as informações do console, procurasse a cpukey dentro do pendrive, assim acelerando o processo de desbloqueio e abaixando as taxas de crashs.
+
+ Observação: O metodo não esta 100%, porem o mesmo deve fazer com que o desbloqueio seja realizado no tempo de 10 minutos.
+ [de acordo com nossos testes de voluntários a modificação funciona]
+
+Observação 2- Eu não sou o Dev, apenas estou divulgando o projeto de Walker.
+
+'O projeto irá continuar?"
+Não, o projeto não irá continuar, tanto por escolha do próprio Max, quanto por mim.
 
  
