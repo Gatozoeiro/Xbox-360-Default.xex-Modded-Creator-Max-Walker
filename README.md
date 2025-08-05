@@ -19,7 +19,8 @@ Foi descoberto por Max walker que, ao modificar uma linha de codigos, fez com qu
 Observação 2- Eu não sou o Dev, apenas estou divulgando o projeto de Walker.
 
 O projeto sera descontinuado/cancelado
-Como propria decisao minha e do Max decidimos que o projeto nao sofrera nenhum tipo de atualização, o github continuará at
-ivo, tanto por conta doe perca de interesse tamto sobre o projeto tanto por arrependimento de ter feito este github e divulgado o projeto tanto por "acontecimentos" internos entre eu e o Dev.
+Como propria decisao minha e do Max decidimos que o projeto nao sofrera nenhum tipo de atualização, o github continuará ativo, porém tanto por conta da perca de interesse, tanto sobre o projeto e meu arrependimento de ter feito este github divulgado o projeto,isto também envolve "acontecimentos" internos entre Eu e o .Dev, e sobre outros diversos motivos
 
-Agradeço a todos que baixaram e testaram esta modificação!
+Agradeço a todos que baixaram e testaram esta modificação.
+
+Gato_zoeiro.
