@@ -18,7 +18,8 @@ Foi descoberto por Max walker que, ao modificar uma linha de codigos, fez com qu
 
 Observação 2- Eu não sou o Dev, apenas estou divulgando o projeto de Walker.
 
-'O projeto irá continuar?"
-Não, o projeto não irá continuar, tanto por escolha do próprio Max, quanto por mim.
+O projeto sera descontinuado/cancelado
+Como propria decisao minha e do Max decidimos que o projeto nao sofrera nenhum tipo de atualização, o github continuará at
+ivo, tanto por conta doe perca de interesse tamto sobre o projeto tanto por arrependimento de ter feito este github e divulgado o projeto.
 
- 
+Agradeço a todos que baixaram e testaram esta modificação!
