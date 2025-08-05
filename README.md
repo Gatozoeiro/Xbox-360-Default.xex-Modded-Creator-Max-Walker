@@ -20,6 +20,6 @@ Observação 2- Eu não sou o Dev, apenas estou divulgando o projeto de Walker.
 
 O projeto sera descontinuado/cancelado
 Como propria decisao minha e do Max decidimos que o projeto nao sofrera nenhum tipo de atualização, o github continuará at
-ivo, tanto por conta doe perca de interesse tamto sobre o projeto tanto por arrependimento de ter feito este github e divulgado o projeto.
+ivo, tanto por conta doe perca de interesse tamto sobre o projeto tanto por arrependimento de ter feito este github e divulgado o projeto tanto por "acontecimentos" internos entre eu e o Dev.
 
 Agradeço a todos que baixaram e testaram esta modificação!
